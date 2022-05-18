@@ -1,1 +1,1 @@
-# DesignPattern
+# 디자인 패턴 예제소스
